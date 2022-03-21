@@ -1,6 +1,6 @@
 {
-    "name": "jumbojett/openid-connect-php",
-    "description": "Bare-bones OpenID Connect client",
+    "name": "visma-verzuim-vzs/openid-connect-php",
+    "description": "Bare-bones OpenID Connect client - Forked for VSZ",
     "license": "Apache-2.0",
     "require": {
         "php": ">=5.4",
